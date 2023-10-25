@@ -1,5 +1,3 @@
-# Workflow file
-
 name: deploy-container
 
 on:
